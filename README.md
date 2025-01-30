@@ -170,12 +170,6 @@ Contributions are always welcome! If you have ideas for new features or find any
 
 ---
 
-## 📜 **License**
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## ✨ **Acknowledgments**
 
 Special thanks to:  
